@@ -1,0 +1,16 @@
+order_id,order_date,customer_id,region,segment,category,product,quantity,sales,discount,profit
+1001,2026-01-03,C001,North,Consumer,Technology,Laptop,1,85000,0.05,12000
+1002,2026-01-05,C002,South,Corporate,Furniture,Office Chair,3,27000,0.10,4500
+1003,2026-01-08,C003,West,Consumer,Technology,Monitor,2,36000,0.08,6200
+1004,2026-01-12,C001,North,Consumer,Office Supplies,Printer Paper,10,6500,0.02,1800
+1005,2026-01-18,C004,East,Corporate,Technology,Tablet,4,96000,0.12,11000
+1006,2026-02-02,C005,North,Consumer,Furniture,Desk,2,30000,0.15,4200
+1007,2026-02-06,C006,West,Consumer,Technology,Laptop,2,170000,0.05,24000
+1008,2026-02-11,C007,South,Home Office,Office Supplies,Printer,2,30000,0.07,5200
+1009,2026-02-17,C008,East,Corporate,Technology,Monitor,5,90000,0.10,14500
+1010,2026-02-24,C003,West,Consumer,Office Supplies,Notebook,25,5000,0.00,1900
+1011,2026-03-03,C009,North,Corporate,Furniture,Office Chair,6,54000,0.08,9200
+1012,2026-03-07,C010,South,Consumer,Technology,Tablet,3,72000,0.05,9800
+1013,2026-03-14,C004,East,Corporate,Technology,Laptop,1,90000,0.10,12500
+1014,2026-03-20,C011,West,Consumer,Furniture,Desk,3,45000,0.12,6000
+1015,2026-03-29,C012,North,Home Office,Office Supplies,Printer Paper,20,13000,0.03,3900
